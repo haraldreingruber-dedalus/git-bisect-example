@@ -25,7 +25,7 @@ namespace BisectApp.ViewModel
         {
             ButtonCommand = new RelayCommand(() =>
             {
-                Text = "Hello git enthousiast!";
+                Text = "Hello svn enthousiast!";
             });
         }
     }
